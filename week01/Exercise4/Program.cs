@@ -17,7 +17,7 @@ class Program
             string answer = Console.ReadLine();
             number = int.Parse(answer);
 
-            if (number != 0)
+            if (number != 0)                                                                                                            
             {
                 numbers.Add(number);
             }
