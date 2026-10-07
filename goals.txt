@@ -1,0 +1,4 @@
+46
+EternalGoal|2|2|1
+SimpleGoal|Read|Read a book|10|True
+ChecklistGoal|Exercise|Exercise every day|5|3|3|20
